@@ -3043,12 +3043,12 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Grub Bot',
-                                    url: 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
+                                    url: 'https://chat.whatsapp.com/HPghUVyf7pSGhfAyx34v2s'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Owner',
-                                    phoneNumber: '+6285822347348'
+                                    phoneNumber: '+62895338690940'
                                 }
                             }, {
                                 quickReplyButton: {
